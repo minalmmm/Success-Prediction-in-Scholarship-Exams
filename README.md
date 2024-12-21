@@ -13,22 +13,4 @@ This project is a Streamlit-based web application that predicts scholarship elig
 
 ---
 
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Model Details](#model-details)
-- [Sample Data Format](#sample-data-format)
-- [File Structure](#file-structure)
-
-
----
-
-## Installation
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-repository-url/scholarship-prediction-dashboard.git
-   cd scholarship-prediction-dashboard
 
